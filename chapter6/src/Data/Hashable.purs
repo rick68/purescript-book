@@ -13,7 +13,7 @@ import Data.Maybe
 import Data.Tuple
 import Data.Either
 import Data.String
-import Data.Char
+import Data.Char (toCharCode)
 import Data.Function (on)
 import Data.Foldable (foldMap)
 import Data.Monoid (Monoid)
